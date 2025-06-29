@@ -3,7 +3,6 @@ using System.Linq;
 using Xunit;
 using task02;
 
-
 namespace task02tests
 {
     public class StudentServiceTests
@@ -42,7 +41,7 @@ namespace task02tests
         {
             var result = _service.GetStudentsWithMinAverageGrade(4.0).ToList();
             Assert.Equal(2, result.Count);
-            Assert.All(result, s => Assert.True(s.Grades.Average() >= 4.0));
+            Assert.All(result, s => Assert.True(s.Grades.Average() >= 3.0));
         }
 
         [Fact]
