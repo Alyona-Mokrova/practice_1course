@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u043B\u0451\u043D\u0430\\Desktop\\Practice\\practice_1course\\practice2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u043B\u0451\u043D\u0430\\Desktop\\Practice\\practice_1course\\practice2025\\task02tests\\task02tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:task02tests\\task02tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46288EED-8B66-42E2-A081-A1EE031BB3E8}|task03tests\\task03tests.csproj|c:\\users\\\u0430\u043B\u0451\u043D\u0430\\desktop\\practice\\practice_1course\\practice2025\\task03tests\\task03test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46288EED-8B66-42E2-A081-A1EE031BB3E8}|task03tests\\task03tests.csproj|solutionrelative:task03tests\\task03test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u043B\u0451\u043D\u0430\\Desktop\\Practice\\practice_1course\\practice2025\\task02\\task02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:task02\\task02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40B34097-106D-4FCA-B48E-78A6687E16F9}|task03\\task03.csproj|c:\\users\\\u0430\u043B\u0451\u043D\u0430\\desktop\\practice\\practice_1course\\practice2025\\task03\\task03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B34097-106D-4FCA-B48E-78A6687E16F9}|task03\\task03.csproj|solutionrelative:task03\\task03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "task02.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0451\u043D\u0430\\Desktop\\Practice\\practice_1course\\practice2025\\task02\\task02.cs",
-              "RelativeDocumentMoniker": "task02\\task02.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043B\u0451\u043D\u0430\\Desktop\\Practice\\practice_1course\\practice2025\\task02\\task02.cs",
-              "RelativeToolTip": "task02\\task02.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T12:36:11.804Z",
-              "IsPinned": true
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -40,13 +27,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "task02tests.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0451\u043D\u0430\\Desktop\\Practice\\practice_1course\\practice2025\\task02tests\\task02tests.cs",
-              "RelativeDocumentMoniker": "task02tests\\task02tests.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043B\u0451\u043D\u0430\\Desktop\\Practice\\practice_1course\\practice2025\\task02tests\\task02tests.cs",
-              "RelativeToolTip": "task02tests\\task02tests.cs",
+              "Title": "task03test.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0451\u043D\u0430\\Desktop\\Practice\\practice_1course\\practice2025\\task03tests\\task03test.cs",
+              "RelativeDocumentMoniker": "task03tests\\task03test.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0451\u043D\u0430\\Desktop\\Practice\\practice_1course\\practice2025\\task03tests\\task03test.cs",
+              "RelativeToolTip": "task03tests\\task03test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T12:37:47.218Z"
+              "WhenOpened": "2025-07-01T10:25:41.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "task03.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0451\u043D\u0430\\Desktop\\Practice\\practice_1course\\practice2025\\task03\\task03.cs",
+              "RelativeDocumentMoniker": "task03\\task03.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0451\u043D\u0430\\Desktop\\Practice\\practice_1course\\practice2025\\task03\\task03.cs",
+              "RelativeToolTip": "task03\\task03.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:19:27.293Z",
+              "EditorCaption": ""
             }
           ]
         }
