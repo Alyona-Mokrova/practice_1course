@@ -1,4 +1,5 @@
-﻿namespace task04
+﻿using System;
+namespace task04
 {
     public interface ISpaceship
     {
@@ -71,7 +72,7 @@
             _rotationAngle %= 360;
             if (_rotationAngle < 0)
             {
-                _rotationAngle = 360;
+                _rotationAngle += 360;
             }
         }
 
