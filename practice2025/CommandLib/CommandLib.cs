@@ -1,7 +1,7 @@
 ﻿namespace CommandLib
-{
-public interface ICommand
-{
-    void Execute();
-}
+    {
+    public interface ICommand
+    {
+        void Execute();
+    }
 }
