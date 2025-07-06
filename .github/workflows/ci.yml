@@ -1,0 +1,18 @@
+name: CI-pipeline
+
+on:
+  push:
+  pull_request:
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+  
+      - name: Build
+        run: dotnet build practice2025/practice2025.sln --configuration Release
+
+      - name: Test
+        run: dotnet test practice2025/practice2025.sln --configuration Release --no-build
