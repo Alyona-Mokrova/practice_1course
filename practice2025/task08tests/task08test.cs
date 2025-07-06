@@ -1,4 +1,6 @@
-﻿public class FileSystemCommandsTests
+﻿using FileSystemCommand;
+
+public class FileSystemCommandsTests
 {
     [Fact]
     public void DirectorySizeCommand_ShouldCalculateSize()

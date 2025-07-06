@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CommandLib\CommandLib.csproj" />
+    <ProjectReference Include="..\FileSystemCommands\FileSystemCommands.csproj" />
   </ItemGroup>
 
 </Project>
