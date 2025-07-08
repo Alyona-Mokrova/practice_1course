@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "task09": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Алёна\\Desktop\\Practice\\practice_1course\\practice2025\\task07\\bin\\Debug\\net8.0\\task07.dll\""
+    }
+  }
+}
